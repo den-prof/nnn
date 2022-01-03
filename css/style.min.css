@@ -74,7 +74,7 @@ body {
 }
 
 header {
-  min-height: 700px;
+  min-height: 100%;
   width: 100%;
   background-image: url(../images/bk.svg);
   background-position: center;
