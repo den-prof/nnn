@@ -245,4 +245,18 @@ footer {
     width: 280px;
   }
 }
+@media (max-height: 500px) {
+  .popup__content {
+    padding: 30px 20px; }
+  .bleck__block {
+    width: 150px;
+    height: 150px; }
+  .but-box {
+    padding: 30px 0; }
+  .popup__button {
+    padding: 15px 63.5px 17px 0;
+    font-weight: 600;
+    font-size: 16px; }
+  .img-p {
+    padding: 0 50px 0 63.5px; } }
 /*# sourceMappingURL=../maps/style.min.css.map */
